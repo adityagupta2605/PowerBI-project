@@ -1,0 +1,501 @@
+Order ID,Order Date,CustomerName,State,City
+B-26055,10-03-18,Harivansh,Uttar Pradesh,Mathura
+B-25993,11-03-18,Madhav,Delhi,Delhi
+B-25973,12-03-18,Madan Mohan,Uttar Pradesh,Mathura
+B-25923,13-03-18,Gopal,Maharashtra,Mumbai
+B-25757,14-03-18,Vishakha,Madhya Pradesh,Indore
+B-25967,15-03-18,Sudevi,Uttar Pradesh,Prayagraj
+B-25955,16-03-18,Shiva,Maharashtra,Pune
+B-26093,17-03-18,Sarita,Maharashtra,Pune
+B-25798,18-03-18,Shishu,Andhra Pradesh,Hyderabad
+B-25602,19-03-18,Vrinda,Maharashtra,Pune
+B-25858,20-03-18,Uudhav,Maharashtra,Mumbai
+B-25969,21-03-18,Shreyshi,Gujarat,Surat
+B-26099,22-03-18,Bhishm,Maharashtra,Mumbai
+B-25997,23-03-18,Yogesh,Maharashtra,Pune
+B-25881,24-03-18,Lalita,Uttar Pradesh,Mathura
+B-25761,25-03-18,Madhav,Uttar Pradesh,Mathura
+B-25887,26-03-18,Vishakha,Uttar Pradesh,Prayagraj
+B-25823,27-03-18,Rohan,Maharashtra,Mumbai
+B-25853,28-03-18,Gaurav,Gujarat,Ahmedabad
+B-25862,29-03-18,Amol,Bihar,Patna
+B-25830,30-03-18,Aastha,Himachal Pradesh,Simla
+B-25786,31-03-18,Madan Mohan,Uttar Pradesh,Mathura
+B-25686,01-04-18,Pooja,Himachal Pradesh,Simla
+B-26022,02-04-18,Shrichand,Punjab,Chandigarh
+B-26003,03-04-18,Hitesh,Madhya Pradesh,Bhopal
+B-25755,04-04-18,Shourya,Kerala ,Thiruvananthapuram
+B-25902,05-04-18,Ishpreet,Maharashtra,Mumbai
+B-25935,06-04-18,Sudhir,Nagaland,Kohima
+B-25797,07-04-18,Sauptik,Madhya Pradesh,Indore
+B-25639,08-04-18,Lisha,Madhya Pradesh,Bhopal
+B-25681,09-04-18,Bhawna,Madhya Pradesh,Indore
+B-25909,10-04-18,Sujay,Maharashtra,Pune
+B-25910,11-04-18,Jay,Delhi,Delhi
+B-25950,12-04-18,Shruti,Madhya Pradesh,Indore
+B-25613,13-04-18,Mohan,Haryana,Chandigarh
+B-25919,14-04-18,Neha,Rajasthan,Udaipur
+B-25768,15-04-18,Shreyoshe,Karnataka,Bangalore
+B-25629,16-04-18,Hemant,Kerala ,Thiruvananthapuram
+B-25729,17-04-18,Madhulika,Madhya Pradesh,Bhopal
+B-25943,18-04-18,Shardul,Gujarat,Ahmedabad
+B-25842,19-04-18,Sheetal,Maharashtra,Pune
+B-26073,20-04-18,Pournamasi,Madhya Pradesh,Indore
+B-25778,21-04-18,Surabhi,Maharashtra,Mumbai
+B-25717,22-04-18,Manshul,Uttar Pradesh,Lucknow
+B-26085,23-04-18,Shrichand,Punjab,Chandigarh
+B-26048,24-04-18,Parth,Maharashtra,Pune
+B-25793,25-04-18,Siddharth,Madhya Pradesh,Indore
+B-25656,26-04-18,Priyanka,Maharashtra,Pune
+B-25608,27-04-18,Aarushi,Tamil Nadu,Chennai
+B-25752,28-04-18,Vaibhav,Madhya Pradesh,Indore
+B-25779,29-04-18,Savi,Maharashtra,Pune
+B-25603,30-04-18,Jahan,Madhya Pradesh,Bhopal
+B-26051,01-05-18,Parishi,West Bengal,Kolkata
+B-25653,02-05-18,Farah,Nagaland,Kohima
+B-25855,03-05-18,Abhijeet,Madhya Pradesh,Bhopal
+B-25762,04-05-18,Anudeep,Madhya Pradesh,Indore
+B-25995,05-05-18,Yohann,Delhi,Delhi
+B-25929,06-05-18,Girase,Kerala ,Thiruvananthapuram
+B-26006,07-05-18,Arpita,Karnataka,Bangalore
+B-25697,08-05-18,Vijay,Jammu and Kashmir,Kashmir
+B-25836,09-05-18,Arti,Maharashtra,Pune
+B-25601,10-05-18,Bharat,Gujarat,Ahmedabad
+B-25873,11-05-18,Divyeta,Madhya Pradesh,Indore
+B-26028,12-05-18,Manju,Andhra Pradesh,Hyderabad
+B-25964,13-05-18,Oshin,Maharashtra,Pune
+B-25676,14-05-18,Chandni,Rajasthan,Jaipur
+B-25839,15-05-18,Pranjali,West Bengal,Kolkata
+B-25894,16-05-18,Monu,Punjab,Amritsar
+B-25925,17-05-18,Shruti,Maharashtra,Mumbai
+B-25953,18-05-18,Krutika,Andhra Pradesh,Hyderabad
+B-25772,19-05-18,Sanjana,Bihar,Patna
+B-25957,20-05-18,Mahima,Madhya Pradesh,Indore
+B-25730,21-05-18,Rishabh,Rajasthan,Jaipur
+B-25877,22-05-18,Dashyam,Gujarat,Surat
+B-26067,23-05-18,Tulika,Madhya Pradesh,Bhopal
+B-25810,24-05-18,Nripraj,Punjab,Chandigarh
+B-25868,25-05-18,Vikash,Goa,Goa
+B-26023,26-05-18,Mukesh,Haryana,Chandigarh
+B-25626,27-05-18,Bhishm,Maharashtra,Mumbai
+B-25937,28-05-18,Ankit,Haryana,Chandigarh
+B-25610,29-05-18,Yogesh,Bihar,Patna
+B-25777,30-05-18,Aditi,Madhya Pradesh,Indore
+B-25738,31-05-18,Ayush,Punjab,Chandigarh
+B-25978,01-06-18,Parin,Maharashtra,Mumbai
+B-25643,02-06-18,Kirti,Jammu and Kashmir,Kashmir
+B-25728,03-06-18,Ameesha,Maharashtra,Pune
+B-25749,04-06-18,Ayush,Maharashtra,Mumbai
+B-25667,05-06-18,Anjali,Haryana,Chandigarh
+B-25657,06-06-18,Tulika,Madhya Pradesh,Bhopal
+B-25753,07-06-18,Shivam,Uttar Pradesh,Lucknow
+B-26061,08-06-18,Anurag,Madhya Pradesh,Indore
+B-25838,09-06-18,Sanjana,Madhya Pradesh,Indore
+B-25702,10-06-18,Shaily,Maharashtra,Mumbai
+B-25952,11-06-18,Priyanka,Madhya Pradesh,Indore
+B-25666,12-06-18,Tanvi,Punjab,Chandigarh
+B-25675,13-06-18,Shreya,Madhya Pradesh,Bhopal
+B-25650,14-06-18,Chirag,Maharashtra,Mumbai
+B-25986,15-06-18,Shweta,Rajasthan,Udaipur
+B-25850,16-06-18,Abhishek,Goa,Goa
+B-25898,17-06-18,Abhishek,Rajasthan,Udaipur
+B-25813,18-06-18,Hrisheekesh,Maharashtra,Mumbai
+B-25825,19-06-18,Kartik,Madhya Pradesh,Indore
+B-25954,20-06-18,Trupti,Gujarat,Ahmedabad
+B-25696,21-06-18,Noopur,Karnataka,Bangalore
+B-25638,22-06-18,Parth,Maharashtra,Pune
+B-25747,23-06-18,Harsh,Madhya Pradesh,Bhopal
+B-25904,24-06-18,Swapnil,Delhi,Delhi
+B-25852,25-06-18,Soumyabrata,Andhra Pradesh,Hyderabad
+B-25981,26-06-18,Amruta,Delhi,Delhi
+B-25899,27-06-18,Aishwarya,Uttar Pradesh,Prayagraj
+B-25870,28-06-18,Pranav,Andhra Pradesh,Hyderabad
+B-26040,29-06-18,Sahil,Punjab,Chandigarh
+B-25671,30-06-18,Mitali,Nagaland,Kohima
+B-26100,01-07-18,Hitika,Madhya Pradesh,Indore
+B-25651,02-07-18,Anurag,Madhya Pradesh,Indore
+B-25968,03-07-18,Paromita,Punjab,Amritsar
+B-26019,04-07-18,Jitesh,Uttar Pradesh,Lucknow
+B-25664,05-07-18,Pratyusmita,Bihar,Patna
+B-26033,06-07-18,Atharv,West Bengal,Kolkata
+B-26052,07-07-18,Ajay,Karnataka,Bangalore
+B-25999,08-07-18,Diwakar,Delhi,Delhi
+B-25781,09-07-18,Rutuja,Gujarat,Ahmedabad
+B-25764,10-07-18,Sanjova,Maharashtra,Pune
+B-25803,11-07-18,Shivanshu,Madhya Pradesh,Indore
+B-25945,12-07-18,Mhatre,Madhya Pradesh,Indore
+B-26086,13-07-18,Mukesh,Haryana,Chandigarh
+B-25845,14-07-18,Snel,Kerala ,Thiruvananthapuram
+B-25817,15-07-18,Praneet,Maharashtra,Mumbai
+B-25951,16-07-18,Jesal,West Bengal,Kolkata
+B-25970,17-07-18,Rhea,Maharashtra,Mumbai
+B-25878,18-07-18,Mrinal,Maharashtra,Mumbai
+B-26057,19-07-18,Sharda,Kerala ,Thiruvananthapuram
+B-25885,20-07-18,Shatayu,Madhya Pradesh,Indore
+B-25897,21-07-18,Rohan,Madhya Pradesh,Indore
+B-25756,22-07-18,Mohan,Maharashtra,Mumbai
+B-25859,23-07-18,Chikku,Madhya Pradesh,Indore
+B-25691,24-07-18,Akancha,Maharashtra,Mumbai
+B-25633,25-07-18,Amit,Sikkim,Gangtok
+B-25708,26-07-18,Kishwar,Madhya Pradesh,Indore
+B-25831,27-07-18,Mahima,Sikkim,Gangtok
+B-25856,28-07-18,Abhijeet,Maharashtra,Mumbai
+B-25893,29-07-18,Vrinda,Uttar Pradesh,Mathura
+B-25959,30-07-18,Muskan,Madhya Pradesh,Indore
+B-26000,31-07-18,Shubham,Delhi,Delhi
+B-26097,01-08-18,Vini,Karnataka,Bangalore
+B-25745,02-08-18,Kartik,Gujarat,Ahmedabad
+B-25974,03-08-18,Manisha,Rajasthan,Udaipur
+B-25670,04-08-18,Charika,Goa,Goa
+B-25848,05-08-18,Rohan,Himachal Pradesh,Simla
+B-25888,06-08-18,Rohan,Punjab,Amritsar
+B-25942,07-08-18,Ankur,Andhra Pradesh,Hyderabad
+B-25847,08-08-18,Aniket,Haryana,Chandigarh
+B-25636,09-08-18,Nishi,Maharashtra,Mumbai
+B-25826,10-08-18,Tanushree,Maharashtra,Mumbai
+B-26081,11-08-18,Aarushi,Tamil Nadu,Chennai
+B-25625,12-08-18,Pinky,Jammu and Kashmir,Kashmir
+B-25802,13-08-18,Yash,Maharashtra,Mumbai
+B-25693,14-08-18,Parna,Madhya Pradesh,Bhopal
+B-25796,15-08-18,Sukrith,Maharashtra,Mumbai
+B-25806,16-08-18,Dhanraj,Madhya Pradesh,Indore
+B-25710,17-08-18,Megha,Maharashtra,Pune
+B-25669,18-08-18,Piyali,Sikkim,Gangtok
+B-25857,19-08-18,Anand,Madhya Pradesh,Indore
+B-25785,20-08-18,Ayush,West Bengal,Kolkata
+B-25930,21-08-18,Monica,Punjab,Chandigarh
+B-26053,22-08-18,Kirti,Jammu and Kashmir,Kashmir
+B-26070,23-08-18,Shruti,Karnataka,Bangalore
+B-25791,24-08-18,Avish,Kerala ,Thiruvananthapuram
+B-25983,25-08-18,Atul,Delhi,Delhi
+B-25979,26-08-18,Shivangi,Madhya Pradesh,Indore
+B-26054,27-08-18,Mayank,Maharashtra,Mumbai
+B-26078,28-08-18,Kasheen,West Bengal,Kolkata
+B-25787,29-08-18,Asish,Jammu and Kashmir,Kashmir
+B-25682,30-08-18,Krutika,Bihar,Patna
+B-25962,31-08-18,Tejeswini,Maharashtra,Pune
+B-25750,01-09-18,Priyanshu,Madhya Pradesh,Indore
+B-25828,02-09-18,Nikita,Punjab,Chandigarh
+B-25622,03-09-18,Monisha,Rajasthan,Jaipur
+B-25751,04-09-18,Nishant,Maharashtra,Mumbai
+B-25685,05-09-18,Sheetal,Madhya Pradesh,Indore
+B-26010,06-09-18,Kartikay,Bihar,Patna
+B-26035,07-09-18,Pinky,Jammu and Kashmir,Kashmir
+B-25698,08-09-18,Amisha,Tamil Nadu,Chennai
+B-25966,09-09-18,Soumya,Rajasthan,Udaipur
+B-25832,10-09-18,Harshita,Maharashtra,Mumbai
+B-25743,11-09-18,Aman,Nagaland,Kohima
+B-25886,12-09-18,Brijesh,Rajasthan,Udaipur
+B-25975,13-09-18,Priyanka,Uttar Pradesh,Prayagraj
+B-26098,14-09-18,Pinky,Jammu and Kashmir,Kashmir
+B-25614,15-09-18,Vandana,Himachal Pradesh,Simla
+B-25726,16-09-18,Kiran,Maharashtra,Mumbai
+B-26050,17-09-18,Paridhi,Rajasthan,Jaipur
+B-25609,18-09-18,Jitesh,Uttar Pradesh,Lucknow
+B-25741,19-09-18,Navdeep,Madhya Pradesh,Indore
+B-25956,20-09-18,Shreya,Maharashtra,Mumbai
+B-25689,21-09-18,Bhaggyasree,Maharashtra,Mumbai
+B-25939,22-09-18,Vineet,Sikkim,Gangtok
+B-25890,23-09-18,Divyansha,Maharashtra,Mumbai
+B-25814,24-09-18,Swapnil,Madhya Pradesh,Indore
+B-25718,25-09-18,Anjali,Maharashtra,Mumbai
+B-25914,26-09-18,Kajal,Delhi,Delhi
+B-25903,27-09-18,Amlan,Madhya Pradesh,Indore
+B-26096,28-09-18,Atharv,West Bengal,Kolkata
+B-25654,29-09-18,Sabah,Maharashtra,Mumbai
+B-26076,30-09-18,Jahan,Madhya Pradesh,Bhopal
+B-25961,01-10-18,Surbhi,Gujarat,Ahmedabad
+B-25854,02-10-18,Shubham,Maharashtra,Pune
+B-25642,03-10-18,Ajay,Karnataka,Bangalore
+B-25683,04-10-18,Shreya,Kerala ,Thiruvananthapuram
+B-26016,05-10-18,Hazel,Karnataka,Bangalore
+B-26034,06-10-18,Vini,Karnataka,Bangalore
+B-26056,07-10-18,Sonal,Bihar,Patna
+B-25819,08-10-18,Ankur,Madhya Pradesh,Bhopal
+B-25715,09-10-18,Srishti,Jammu and Kashmir,Kashmir
+B-25933,10-10-18,Shikhar,Maharashtra,Mumbai
+B-26014,11-10-18,Divsha,Rajasthan,Jaipur
+B-25655,12-10-18,Nida,Madhya Pradesh,Indore
+B-25816,13-10-18,Mane,Andhra Pradesh,Hyderabad
+B-25634,14-10-18,Sanjay,Goa,Goa
+B-25895,15-10-18,Sathya,Gujarat,Surat
+B-25687,16-10-18,Sanjna,Maharashtra,Mumbai
+B-25662,17-10-18,Sweta,Maharashtra,Mumbai
+B-25635,18-10-18,Nidhi,Nagaland,Kohima
+B-26060,19-10-18,Chirag,Maharashtra,Mumbai
+B-26045,20-10-18,Nidhi,Nagaland,Kohima
+B-25770,21-10-18,Sakshi,Madhya Pradesh,Indore
+B-25744,22-10-18,Devendra,Andhra Pradesh,Hyderabad
+B-25618,23-10-18,Manju,Andhra Pradesh,Hyderabad
+B-25958,24-10-18,Aparajita,West Bengal,Kolkata
+B-25769,25-10-18,Surbhi,Maharashtra,Mumbai
+B-25619,26-10-18,Ramesh,Gujarat,Ahmedabad
+B-25688,27-10-18,Swetha,Madhya Pradesh,Indore
+B-25829,28-10-18,Apoorva,Haryana,Chandigarh
+B-26036,29-10-18,Bhishm,Maharashtra,Mumbai
+B-25714,30-10-18,Stuti,Karnataka,Bangalore
+B-25989,31-10-18,Anjali,Delhi,Delhi
+B-25849,01-11-18,K,Sikkim,Gangtok
+B-25851,02-11-18,Kushal,Nagaland,Kohima
+B-25782,03-11-18,Aayushi,Maharashtra,Mumbai
+B-25621,04-11-18,Deepak,Madhya Pradesh,Bhopal
+B-25996,05-11-18,Prashant,Delhi,Delhi
+B-25678,06-11-18,Bathina,Karnataka,Bangalore
+B-25727,07-11-18,Turumella,Madhya Pradesh,Indore
+B-26018,08-11-18,Aarushi,Tamil Nadu,Chennai
+B-25760,09-11-18,Pooja,Goa,Goa
+B-25804,10-11-18,Sudheer,Karnataka,Bangalore
+B-25754,11-11-18,Akshay,Bihar,Patna
+B-26020,12-11-18,Yogesh,Bihar,Patna
+B-25640,13-11-18,Paridhi,Rajasthan,Jaipur
+B-25789,14-11-18,Akshay,Uttar Pradesh,Lucknow
+B-26072,15-11-18,Sweta,Maharashtra,Mumbai
+B-26007,16-11-18,Shubham,Jammu and Kashmir,Kashmir
+B-26087,17-11-18,Vandana,Himachal Pradesh,Simla
+B-25617,18-11-18,Sagar,Nagaland,Kohima
+B-25984,19-11-18,Kajal,Delhi,Delhi
+B-25767,20-11-18,Ashmeet,West Bengal,Kolkata
+B-25987,21-11-18,Manjiri,Delhi,Delhi
+B-25840,22-11-18,Sneha,Karnataka,Bangalore
+B-25663,23-11-18,Pournamasi,Madhya Pradesh,Indore
+B-26030,24-11-18,Sarita,Maharashtra,Pune
+B-25947,25-11-18,Chetan,Gujarat,Ahmedabad
+B-25896,26-11-18,Aman,Maharashtra,Mumbai
+B-26009,27-11-18,Komal,Uttar Pradesh,Lucknow
+B-25876,28-11-18,Bhosale,Punjab,Amritsar
+B-25915,29-11-18,Sukruta,Punjab,Amritsar
+B-25795,30-11-18,Sukant,Sikkim,Gangtok
+B-26002,01-12-18,Harsh,Delhi,Delhi
+B-25645,02-12-18,Yaanvi,Madhya Pradesh,Indore
+B-25837,03-12-18,Palak,Maharashtra,Mumbai
+B-25612,04-12-18,Shrichand,Punjab,Chandigarh
+B-25812,05-12-18,Kshitij,Madhya Pradesh,Indore
+B-25843,06-12-18,Mrunal,Maharashtra,Mumbai
+B-26026,07-12-18,Kanak,Goa,Goa
+B-25773,08-12-18,Shreya,Kerala ,Thiruvananthapuram
+B-25875,09-12-18,Divyeshkumar,Uttar Pradesh,Prayagraj
+B-25660,10-12-18,Shruti,Karnataka,Bangalore
+B-25918,11-12-18,Karandeep,Madhya Pradesh,Indore
+B-25971,12-12-18,Mitali,Madhya Pradesh,Indore
+B-26063,13-12-18,Farah,Nagaland,Kohima
+B-25867,14-12-18,Ankit,Sikkim,Gangtok
+B-25703,15-12-18,Ekta,Madhya Pradesh,Indore
+B-25661,16-12-18,Subhashree,Jammu and Kashmir,Kashmir
+B-25748,17-12-18,Nitant,Rajasthan,Jaipur
+B-25766,18-12-18,Surabhi,Rajasthan,Jaipur
+B-25861,19-12-18,Aayush,Uttar Pradesh,Lucknow
+B-26058,20-12-18,Aditya,Punjab,Chandigarh
+B-25808,21-12-18,Apsingekar,Bihar,Patna
+B-25900,22-12-18,Anand,Punjab,Amritsar
+B-26084,23-12-18,Anita,Kerala ,Thiruvananthapuram
+B-25652,24-12-18,Tushina,Goa,Goa
+B-26008,25-12-18,Kalyani,Tamil Nadu,Chennai
+B-25799,26-12-18,Divyansh,Gujarat,Ahmedabad
+B-25927,27-12-18,Shreya,Uttar Pradesh,Lucknow
+B-25985,28-12-18,Ginny,Madhya Pradesh,Indore
+B-25994,29-12-18,Omkar,Delhi,Delhi
+B-25620,30-12-18,Sarita,Maharashtra,Pune
+B-25712,31-12-18,Adhvaita,Rajasthan,Jaipur
+B-25976,01-01-19,Piyam,Punjab,Amritsar
+B-26068,02-01-19,Shefali,Rajasthan,Jaipur
+B-25721,03-01-19,Anchal,Haryana,Chandigarh
+B-25863,04-01-19,Manibalan,Kerala ,Thiruvananthapuram
+B-25991,05-01-19,Mansi,Madhya Pradesh,Indore
+B-25737,06-01-19,Shubham,Madhya Pradesh,Indore
+B-26043,07-01-19,Amit,Sikkim,Gangtok
+B-25977,08-01-19,Aayushi,Gujarat,Surat
+B-25908,09-01-19,Pradeep,Delhi,Delhi
+B-25941,10-01-19,Jaideep,Nagaland,Kohima
+B-25794,11-01-19,Aditya,Himachal Pradesh,Simla
+B-26041,12-01-19,Ritu,Haryana,Chandigarh
+B-25695,13-01-19,Suhani,West Bengal,Kolkata
+B-25960,14-01-19,Shreya,Andhra Pradesh,Hyderabad
+B-26037,15-01-19,Hitika,Madhya Pradesh,Indore
+B-25921,16-01-19,Sandra,Punjab,Amritsar
+B-25944,17-01-19,Syed,Maharashtra,Pune
+B-25724,18-01-19,Sheetal,Madhya Pradesh,Indore
+B-26024,19-01-19,Vandana,Himachal Pradesh,Simla
+B-25694,20-01-19,Subhasmita,Rajasthan,Jaipur
+B-25665,21-01-19,Chayanika,Kerala ,Thiruvananthapuram
+B-26004,22-01-19,Nandita,Rajasthan,Jaipur
+B-25611,23-01-19,Anita,Kerala ,Thiruvananthapuram
+B-25901,24-01-19,Suraj,Gujarat,Surat
+B-25623,25-01-19,Atharv,West Bengal,Kolkata
+B-25713,26-01-19,Raksha,West Bengal,Kolkata
+B-26091,27-01-19,Manju,Andhra Pradesh,Hyderabad
+B-25604,28-01-19,Divsha,Rajasthan,Jaipur
+B-25827,29-01-19,Sheetal,Madhya Pradesh,Indore
+B-25835,30-01-19,Moumita,Gujarat,Ahmedabad
+B-26025,31-01-19,Bhavna,Sikkim,Gangtok
+B-25809,01-02-19,Suman,Kerala ,Thiruvananthapuram
+B-25905,02-02-19,Bhargav,Delhi,Delhi
+B-25948,03-02-19,Mukund,Maharashtra,Pune
+B-26094,04-02-19,Deepak,Madhya Pradesh,Bhopal
+B-25949,05-02-19,Shantanu,Maharashtra,Mumbai
+B-26001,06-02-19,Patil,Delhi,Delhi
+B-25771,07-02-19,Vaibhavi,Uttar Pradesh,Lucknow
+B-25659,08-02-19,Sanskriti,West Bengal,Kolkata
+B-25924,09-02-19,Prajakta,Karnataka,Bangalore
+B-25883,10-02-19,Saptadeep,Gujarat,Surat
+B-25946,11-02-19,Saurabh,Andhra Pradesh,Hyderabad
+B-26065,12-02-19,Nida,Madhya Pradesh,Indore
+B-26083,13-02-19,Yogesh,Bihar,Patna
+B-25725,14-02-19,Anisha,Nagaland,Kohima
+B-25630,15-02-19,Sahil,Punjab,Chandigarh
+B-25673,16-02-19,Arsheen,Gujarat,Ahmedabad
+B-25692,17-02-19,Rashmi,Madhya Pradesh,Indore
+B-25992,18-02-19,Gaurav,Rajasthan,Udaipur
+B-25765,19-02-19,Meghana,Madhya Pradesh,Bhopal
+B-25892,20-02-19,Aditi,Rajasthan,Udaipur
+B-26089,21-02-19,Kanak,Goa,Goa
+B-25780,22-02-19,Teena,Andhra Pradesh,Hyderabad
+B-25684,23-02-19,Samiksha,Maharashtra,Mumbai
+B-25739,24-02-19,Daksh,Haryana,Chandigarh
+B-25731,25-02-19,Akash,West Bengal,Kolkata
+B-25648,26-02-19,Aditya,Punjab,Chandigarh
+B-26038,27-02-19,Pooja,Bihar,Patna
+B-25700,28-02-19,Shubhi,Maharashtra,Mumbai
+B-26015,01-03-19,Kasheen,West Bengal,Kolkata
+B-25704,02-03-19,Riya,Maharashtra,Mumbai
+B-25811,03-03-19,Utsav,Maharashtra,Mumbai
+B-25821,04-03-19,Ajay,West Bengal,Kolkata
+B-25874,05-03-19,Megha,Rajasthan,Udaipur
+B-25668,06-03-19,Rhea,Himachal Pradesh,Simla
+B-25800,07-03-19,Ishit,Maharashtra,Pune
+B-25928,08-03-19,Smriti,Bihar,Patna
+B-26021,09-03-19,Anita,Kerala ,Thiruvananthapuram
+B-26064,10-03-19,Ankita,Maharashtra,Mumbai
+B-25882,11-03-19,Masurkar,Punjab,Amritsar
+B-25891,12-03-19,Shivani,Madhya Pradesh,Indore
+B-25820,13-03-19,Dheeraj,Rajasthan,Jaipur
+B-25889,14-03-19,Abhishek,Gujarat,Surat
+B-25871,15-03-19,Gunjal,Gujarat,Surat
+B-25637,16-03-19,Ashmi,Madhya Pradesh,Indore
+B-25616,17-03-19,Kanak,Goa,Goa
+B-25972,18-03-19,Jesslyn,Rajasthan,Udaipur
+B-25805,19-03-19,Ankit,Maharashtra,Mumbai
+B-25860,20-03-19,Akshay,Tamil Nadu,Chennai
+B-26080,21-03-19,Sonakshi,Jammu and Kashmir,Kashmir
+B-25807,22-03-19,Vipul,Uttar Pradesh,Lucknow
+B-25734,23-03-19,Pranav,Madhya Pradesh,Indore
+B-25880,24-03-19,Apoorv,Rajasthan,Udaipur
+B-25934,25-03-19,Rahul,Madhya Pradesh,Indore
+B-25913,26-03-19,Geetanjali,Delhi,Delhi
+B-25912,27-03-19,Preksha,Delhi,Delhi
+B-25824,28-03-19,Shyam,Madhya Pradesh,Indore
+B-25711,29-03-19,Sakshi,Madhya Pradesh,Bhopal
+B-25864,30-03-19,Aromal,Maharashtra,Mumbai
+B-25917,31-03-19,Sanjay,Maharashtra,Mumbai
+B-26049,01-04-19,Lisha,Madhya Pradesh,Bhopal
+B-25920,02-04-19,Jayanti,Uttar Pradesh,Prayagraj
+B-25699,03-04-19,Kritika,Uttar Pradesh,Lucknow
+B-25735,04-04-19,Arindam,Uttar Pradesh,Lucknow
+B-25701,05-04-19,Maithilee,Madhya Pradesh,Indore
+B-26092,06-04-19,Ramesh,Gujarat,Ahmedabad
+B-26082,07-04-19,Jitesh,Uttar Pradesh,Lucknow
+B-25818,08-04-19,Sandeep,Madhya Pradesh,Indore
+B-25846,09-04-19,Soodesh,Punjab,Chandigarh
+B-26011,10-04-19,Bharat,Gujarat,Ahmedabad
+B-25631,11-04-19,Ritu,Haryana,Chandigarh
+B-25606,12-04-19,Hazel,Karnataka,Bangalore
+B-25746,13-04-19,Shivam,Maharashtra,Pune
+B-26005,14-04-19,Parnavi,West Bengal,Kolkata
+B-25844,15-04-19,Swati,Madhya Pradesh,Indore
+B-25869,16-04-19,Parakh,Nagaland,Kohima
+B-26066,17-04-19,Priyanka,Maharashtra,Pune
+B-25865,18-04-19,Arun,Madhya Pradesh,Indore
+B-26039,19-04-19,Hemant,Kerala ,Thiruvananthapuram
+B-25916,20-04-19,Utkarsh,Gujarat,Surat
+B-26090,21-04-19,Sagar,Nagaland,Kohima
+B-25988,22-04-19,Nirja,Delhi,Delhi
+B-25906,23-04-19,Abhijit,Delhi,Delhi
+B-26017,24-04-19,Sonakshi,Jammu and Kashmir,Kashmir
+B-25644,25-04-19,Mayank,Maharashtra,Mumbai
+B-25679,26-04-19,Avni,Maharashtra,Mumbai
+B-25723,27-04-19,Wale,Maharashtra,Mumbai
+B-25605,28-04-19,Kasheen,West Bengal,Kolkata
+B-25792,29-04-19,Abhishek,Maharashtra,Mumbai
+B-25680,30-04-19,Aayushi,Madhya Pradesh,Indore
+B-25931,01-05-19,Sidharth,Maharashtra,Mumbai
+B-25932,02-05-19,Bhutekar,Madhya Pradesh,Indore
+B-25990,03-05-19,Mugdha,Delhi,Delhi
+B-25615,04-05-19,Bhavna,Sikkim,Gangtok
+B-26031,05-05-19,Deepak,Madhya Pradesh,Bhopal
+B-25801,06-05-19,Aryan,Madhya Pradesh,Bhopal
+B-25833,07-05-19,Krishna,Madhya Pradesh,Indore
+B-26077,08-05-19,Divsha,Rajasthan,Jaipur
+B-25936,09-05-19,Nikhil,Punjab,Chandigarh
+B-25938,10-05-19,Shikhar,Himachal Pradesh,Simla
+B-25716,11-05-19,Surabhi,Tamil Nadu,Chennai
+B-25740,12-05-19,Rane,Maharashtra,Mumbai
+B-25763,13-05-19,Noshiba,Gujarat,Ahmedabad
+B-25872,14-05-19,Saurabh,Maharashtra,Mumbai
+B-25879,15-05-19,Siddharth,Madhya Pradesh,Indore
+B-25926,16-05-19,Dipali,Madhya Pradesh,Indore
+B-26074,17-05-19,Bharat,Gujarat,Ahmedabad
+B-25627,18-05-19,Hitika,Madhya Pradesh,Indore
+B-25940,19-05-19,Vivek,Goa,Goa
+B-26047,20-05-19,Ashmi,Madhya Pradesh,Indore
+B-26069,21-05-19,Sanskriti,West Bengal,Kolkata
+B-26027,22-05-19,Sagar,Nagaland,Kohima
+B-25963,23-05-19,Pratiksha,Maharashtra,Mumbai
+B-25922,24-05-19,Akshata,Gujarat,Surat
+B-25866,25-05-19,Komal,Himachal Pradesh,Simla
+B-25607,26-05-19,Sonakshi,Jammu and Kashmir,Kashmir
+B-25775,27-05-19,Duhita,Haryana,Chandigarh
+B-25998,28-05-19,Anmol,Rajasthan,Udaipur
+B-26062,29-05-19,Tushina,Goa,Goa
+B-25722,30-05-19,Inderpreet,Himachal Pradesh,Simla
+B-25776,31-05-19,Mousam,Maharashtra,Mumbai
+B-26032,01-06-19,Monisha,Rajasthan,Jaipur
+B-25705,02-06-19,Shweta,Madhya Pradesh,Indore
+B-25628,03-06-19,Pooja,Bihar,Patna
+B-25733,04-06-19,Dhirajendu,Maharashtra,Mumbai
+B-25647,05-06-19,Sharda,Kerala ,Thiruvananthapuram
+B-25790,06-06-19,Sajal,Bihar,Patna
+B-25709,07-06-19,Aakanksha,Madhya Pradesh,Indore
+B-25911,08-06-19,Phalguni,Madhya Pradesh,Bhopal
+B-25774,09-06-19,Snehal,Punjab,Chandigarh
+B-26042,10-06-19,Manish,Himachal Pradesh,Simla
+B-25815,11-06-19,Harsh,Nagaland,Kohima
+B-25822,12-06-19,Tejas,Karnataka,Bangalore
+B-26075,13-06-19,Pearl,Maharashtra,Pune
+B-25783,14-06-19,Shivangi,Madhya Pradesh,Indore
+B-26046,15-06-19,Nishi,Maharashtra,Mumbai
+B-25690,16-06-19,Gunjan,Madhya Pradesh,Indore
+B-25706,17-06-19,Swetlana,Goa,Goa
+B-25736,18-06-19,Akshat,Maharashtra,Mumbai
+B-25720,19-06-19,Namrata,Punjab,Chandigarh
+B-25907,20-06-19,Jaydeep,Madhya Pradesh,Bhopal
+B-25719,21-06-19,Rashmi,Madhya Pradesh,Indore
+B-26013,22-06-19,Jahan,Madhya Pradesh,Bhopal
+B-26044,23-06-19,Sanjay,Goa,Goa
+B-25649,24-06-19,Rachna,Haryana,Chandigarh
+B-25658,25-06-19,Shefali,Rajasthan,Jaipur
+B-25672,26-06-19,Akanksha,Andhra Pradesh,Hyderabad
+B-25624,27-06-19,Vini,Karnataka,Bangalore
+B-25884,28-06-19,Sumeet,Maharashtra,Mumbai
+B-25641,29-06-19,Parishi,West Bengal,Kolkata
+B-25841,30-06-19,Ashvini,Maharashtra,Mumbai
+B-25980,01-07-19,Shweta,Rajasthan,Udaipur
+B-26012,02-07-19,Pearl,Maharashtra,Pune
+B-26029,03-07-19,Ramesh,Gujarat,Ahmedabad
+B-26071,04-07-19,Subhashree,Jammu and Kashmir,Kashmir
+B-25646,05-07-19,Sonal,Bihar,Patna
+B-25677,06-07-19,Ekta,West Bengal,Kolkata
+B-25759,07-07-19,Soumya,Sikkim,Gangtok
+B-26059,08-07-19,Rachna,Haryana,Chandigarh
+B-25632,09-07-19,Manish,Himachal Pradesh,Simla
+B-26079,10-07-19,Hazel,Karnataka,Bangalore
+B-25674,11-07-19,Mahima,Maharashtra,Pune
+B-25965,12-07-19,Saloni,West Bengal,Kolkata
+B-25732,13-07-19,Anubhaw,Karnataka,Bangalore
+B-25834,14-07-19,Ananya,Andhra Pradesh,Hyderabad
+B-25784,15-07-19,Rohit,Rajasthan,Jaipur
+B-25982,16-07-19,Hemangi,Delhi,Delhi
+B-25788,17-07-19,Dinesh,Tamil Nadu,Chennai
+B-25742,18-07-19,Ashwin,Goa,Goa
+B-26088,19-07-19,Bhavna,Sikkim,Gangtok
+B-25707,20-07-19,Shivani,Maharashtra,Mumbai
+B-25758,21-07-19,Shubham,Himachal Pradesh,Simla
+B-26095,22-07-19,Monisha,Rajasthan,Jaipur
